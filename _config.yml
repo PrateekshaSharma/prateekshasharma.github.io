@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name   : "Prateeksha Sharma"
+  name   : ""
   avatar : "/assets/profile.png"
   bio: "Graduate student at University of Southern California"
   email: "psharma7@usc.edu"
