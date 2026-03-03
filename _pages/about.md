@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "About Me"
+title: ""
 permalink: /
 header:
   overlay_color: "#4a90e2"
