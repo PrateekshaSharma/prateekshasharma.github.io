@@ -3,9 +3,7 @@ layout: single
 author_profile: true
 title: null
 permalink: /
-header:
-  overlay_color: "#4a90e2"
-  overlay_filter: 0.4
+header: false
 ---
 
 Hi, I'm **Prateeksha Sharma**.
