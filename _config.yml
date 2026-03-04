@@ -21,15 +21,15 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  name   : ""
-  avatar : "/assets/profile.png"
-  bio: "Graduate student at University of Southern California"
-  email: "psharma7@usc.edu"
-  github: "PrateekshaSharma"
+author: prateeksha
+  name : "Prateeksha Sharma"
+  avatar : "/images/profile.png"
+  bio : "Graduate student"
+  email : "psharma7@usc.edu"
+  github : "PrateekshaSharma"
   # Biographic information
   name   : "Prateeksha Sharma"
-  avatar : "/assets/profile.png"
+ avatar: "/images/profile.png"
   bio              : "Graduate student at University of Southern California"
   email: "psharma7@usc.edu"
 
