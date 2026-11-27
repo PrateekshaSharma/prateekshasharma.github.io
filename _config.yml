@@ -12,7 +12,7 @@ site_theme               : "sunrise"
 title                    : null
 title_separator          : " "
 name                     : &name "Prateeksha Sharma"
-description              : &description "Structural Engineering | Uncertainty Quantification | USC"
+description              : &description "Computational Mechanics | Scientific Machine Learning"
 url                      : https://prateekshasharma.github.io
 baseurl                  : ""
 repository               : "prateekshasharma/prateekshasharma.github.io"
@@ -21,8 +21,8 @@ repository               : "prateekshasharma/prateekshasharma.github.io"
 author:
     name                   : "Prateeksha Sharma"
     avatar                 : "123.jpeg"
-    bio                    : "Incoming MS Student, Structural Engineering · University of Southern California (Fall 2026)."
-    email                  : "psharma7@usc.edu"
+    bio                    : "Civil engineer (B.Tech, IET Lucknow). Applying to MS programmes in computational mechanics and scientific ML for 2027."
+    email                  :
     github                 : "prateekshasharma"
     linkedin               : "prateekshasharma"
 
